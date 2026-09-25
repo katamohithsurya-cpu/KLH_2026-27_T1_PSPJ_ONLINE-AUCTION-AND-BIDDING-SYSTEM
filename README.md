@@ -8,9 +8,8 @@
 
 ## Team Member Names with ID Numbers
 
-1. **K. SUSHANTH MANIKANTA** — **2620030349**
-2. **K. MOHITH SURYA** — **2620030231**
-
+1. **K. MOHITH SURYA** — **2620030231**
+2. **K. SUSHANTH MANIKANTA** — **2620030349**         
 ## Year / Semester
 **Year 1, Semester 1**
 
